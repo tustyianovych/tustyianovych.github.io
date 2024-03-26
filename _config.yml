@@ -1,1 +1,9 @@
+title: Taras Ustyianovych
+email: t.ustyianovych@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my research portfolio.
+instagram_username: t.ustyianovych
+github_username:  tustyianovych
+
+# Build settings
 theme: jekyll-theme-minimal
