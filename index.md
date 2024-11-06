@@ -9,9 +9,7 @@
 
 I am a Ph.D. student at the [Department of Artificial Intelligence Systems](https://lpnu.ua/en/ais) at Lviv Polytechnic National University. My research interests include Data Science for Climate Change, Multimodal Data Processing, and Social Communications Analysis. I am always open to collaboration and cooperation in these areas. 
 
-My Ph.D. thesis focuses on **multimodal data fusion** for **climate change modeling** and **social awareness improvement**. I use artificial intelligence and data science to forecast physical climate indicators for specific regions and find the most optimal set of parameters to minimize the consequences of environmental issues. Another crucial area of my research is the study of tipping points that lead to significant shifts in social perception of climate problems.
-
-Further, I worked on a research project on multi-task classification of data from instant messaging platforms in cooperation with the University of Alberta (Canada). As a result, I managed to train a transformer model capable of categorizing content on three aspects with high accuracy and deliver valuable analytical insights for studying social communication aspects. The [study](https://aclanthology.org/2024.unlp-1.5) is published in LREC-COLING 2024 (Ukrainian NLP) conference proceedings. The work was funded by a research grant from the [Canadian Institute of Ukrainian Studies](https://www.ualberta.ca/en/canadian-institute-of-ukrainian-studies/index.html).
+My Ph.D. thesis focuses on **multimodal data fusion** for **climate change modeling** and **social awareness improvement**. I use artificial intelligence and data science to forecast physical climate indicators for specific regions and find the most optimal set of parameters to minimize the consequences of environmental issues. Another crucial area of my research is the study of tipping points that lead to significant shifts in social perception of climate problems. Further, I worked on a research project funded by the [Canadian Institute of Ukrainian Studies](https://www.ualberta.ca/en/canadian-institute-of-ukrainian-studies/index.html) on multi-task classification of data from instant messaging platforms in cooperation with the University of Alberta (Canada).
 
 In addition to academia, I possess more than 5 years of industry experience across various domains (e-commerce, EdTech, FinTech) at [EPAM Systems](https://www.epam.com/) where I act as a Lead Software Engineer with strong expertise in data science, machine learning operations, and observability. 
 
@@ -63,13 +61,13 @@ Please find out about my experience and achievements in the corresponding academ
 
 
 # Certifications
-### [Databricks Machine Learning Professional](https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
+- **[Databricks Machine Learning Professional]**(https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
 - **Validity**: September 2023 - September 2025
 
-### [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
+- **[Microsoft Azure Data Scientist Associate]**(https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
 - **Validity**: March 2021 - March 2025
 
-### [AWS Certified Machine Learning – Specialty](hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
+- **[AWS Certified Machine Learning – Specialty]**(hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
 - **Validity**: December 2021 - December 2024
 
 # Volunteering
