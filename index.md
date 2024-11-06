@@ -7,9 +7,18 @@
 
 ## About Me
 
-I am a Ph.D. student at the Department of Artificial Intelligence Systems at Lviv Polytechnic National University. My research interests include Data Science for Climate Change, Multimodal Data Processing, and Social Communications Analysis. I am always open to collaboration and cooperation in these areas. My Ph.D. thesis I work on focus on Multimodal data fusion for social climate change perception and improvement in Ukraine.
+I am a Ph.D. student at the [Department of Artificial Intelligence Systems](https://lpnu.ua/en/ais) at Lviv Polytechnic National University. My research interests include Data Science for Climate Change, Multimodal Data Processing, and Social Communications Analysis. I am always open to collaboration and cooperation in these areas. 
 
-- [Link to my CV](/cv.pdf)
+My Ph.D. thesis focuses on **multimodal data fusion** for **climate change modeling** and **social awareness improvement**. I use artificial intelligence and data science to forecast physical climate indicators for specific regions and find the most optimal set of parameters to minimize the consequences of environmental issues. Another crucial area of my research is the study of tipping points that lead to significant shifts in social perception of climate problems.
+
+Further, I worked on a research project on multi-task classification of data from instant messaging platforms in cooperation with the University of Alberta (Canada). As a result, I managed to train a transformer model capable of categorizing content on three aspects with high accuracy and deliver valuable analytical insights for studying social communication aspects. The [study](https://aclanthology.org/2024.unlp-1.5) is published in LREC-COLING 2024 (Ukrainian NLP) conference proceedings. The work was funded by a research grant from the [Canadian Institute of Ukrainian Studies](https://www.ualberta.ca/en/canadian-institute-of-ukrainian-studies/index.html).
+
+In addition to academia, I possess more than 5 years of industry experience across various domains (e-commerce, EdTech, FinTech) at [EPAM Systems](https://www.epam.com/) where I act as a Lead Software Engineer with strong expertise in data science, machine learning operations, and observability. 
+
+Please find out about my experience and achievements in the corresponding academic and industry CVs: 
+
+- [Academic CV](/cv.pdf)
+<!-- - [Industry CV](/to_be_added.pdf) -->
 
 # Selected Publications and Conference Papers
 
@@ -45,12 +54,33 @@ I am a Ph.D. student at the Department of Artificial Intelligence Systems at Lvi
 - [Machine Learning Operations and Monitoring](https://dou.ua/forums/topic/36101/) (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2022)
 - [Machine Learning as an Assitant for Disinformation Detection]()https://dou.ua/forums/topic/48842/ (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2024)
 
-## Industry Experience
+# Industry Experience
 
 ### EPAM Systems, Lead Software Engineer
 - **Period**: April, 2019 - Now
 - **Responsibilities**: Development of end-to-end ML/AI-based solutions with a team of 5-10 people by Scrum. Coordinate Databricks ML certifications program and provide supervision to Trainee/Junior Data Scientists and ML Engineers. Engaged in a number of social volunteering projects. Actively participate in pre-sales and consultations sessions.
 - **Achievements**: Successful delivery of 5+ projects with average project duration ~1 year. In 2020 contributed to the development of a Master's Degree program in Software Engineering at the National University of "Kyiv-Mohyla Academy". Have obtained the EPAM IMPACT CEO Awards twice (in 2023 and 2024).
 
+
+# Certifications
+### [Databricks Machine Learning Professional](https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
+- **Validity**: September 2023 - September 2025
+
+### [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
+- **Validity**: March 2021 - March 2025
+
+### [AWS Certified Machine Learning – Specialty](hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
+- **Validity**: December 2021 - December 2024
+
+# Volunteering
+
+### Lviv Polytechnic National University
+- Technical mentor on a AI for Disinformation, Drones, and Security Hackathon. The team I mentored became the 2nd out of 10 teams in the final rating with the developed solution. June 2024.
+
+### Ukrainian Catholic University
+- Invited lecturer for an course on natural language processing. Delivered two lectures and workshops on topic modeling and language models. November 2023 & November 2024
+
+### EPAM Systems
+- Python trainer for a class of teenagers at the eKids program. February-March 2020.
 
 

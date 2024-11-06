@@ -1,11 +1,12 @@
-title: Taras Ustyianovych
-email: your.email@domain.com
-description: Research Scientist in Machine Learning and Data Science
+# title: Ph.D. student
+email: Taras.O.Ustyianovych@lpnu.ua
+# description: Department of Artificial Intelligence Systems at Lviv Polytechnic National University
 show_downloads: false
 color-scheme: auto
 plugins:
   - jekyll-sitemap
   - jemoji
+
 
 sidebar:
   - name: Google Scholar
