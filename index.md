@@ -11,20 +11,32 @@ I am a Ph.D. student at the Department of Artificial Intelligence Systems at Lvi
 
 - [Link to my CV](/cv.pdf)
 
-## Selected Publications
+# Selected Publications and Conference Papers
 
-- Fedushko, S.; Ustyianovych, T.; Syerov, Y. Intelligent Academic Specialties Selection in Higher Education for Ukrainian Entrants: A Recommendation System. J. Intell. 2022, 10, 32. https://doi.org/10.3390/jintelligence10020032 (Q2)
-- Fedushko, S.; Ustyianovych, T. E-Commerce Customers Behavior Research Using Cohort Analysis: A Case Study of COVID-19. J. Open Innov. Technol. Mark. Complex. 2022, 8, 12. https://doi.org/10.3390/joitmc8010012 (Q1)
-- Fedushko S, Ustyianovych T, Syerov Y, Peracek T. User-Engagement Score and SLIs/SLOs/SLAs Measurements Correlation of E-Business Projects Through Big Data Analysis. Applied Sciences. 2020; 10(24):9112. https://doi.org/10.3390/app10249112 (Q2)
-- Fedushko S., Ustyianovych T. (2019) Predicting Pupil's Successfulness Factors Using Machine Learning Algorithms and Mathematical Modelling Methods. In: Hu Z., Petoukhov S., Dychka I., He M. (eds) Advances in Computer Science for Engineering and Education II. ICCSEEA 2019. Advances in Intelligent Systems and Computing, vol 938. Springer, Cham. pp 625-636. https://doi.org/10.1007/978-3-030-16621-2_58
-- Fedushko S., Michal Gregus ml., Ustyianovych T. Medical card data imputation and patient psychological and behavioral profile construction. Procedia Computer Science. Volume 160, 2019, Pages 354-361.  https://doi.org/10.1016/j.procs.2019.11.080 (Q2)
+## Journal Publications
 
-## Selected Conference Papers
-- Nadiia Kasianchuk, Sofiia Harkava, Sofiia Onishchenko, Olesia Solodka, Daria Shyshko, Eduard Siemens, Halina Falfushynska and Taras Ustyianovych. Computational Breakthroughs in Aquatic Taxonomy: The Role of Deep Learning and DNA Barcoding // Proceedings of International Conference on Applied Innovation in IT 2024/03/07, Volume 12, Issue 1, pp. 79-87. DOI: 10.25673/115645
-- Taras Ustyianovych, Nadiia Kasianchuk, Halina Falfushynska, Solomiia Fedushko and Eduard Siemens. Dynamic Topic Modelling of Online Discussions on the Russian War in Ukraine // Proceedings of International Conference on Applied Innovation in IT. Volume 11, Issue 2, pp. 81-89. DOI: 10.25673/112997
-- D. Zhuravchak, T. Ustyianovych, V. Dudykevych, B. Venny and K. Ruda. Ransomware Prevention System Design based on File Symbolic Linking Honeypots. 2021 11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), 2021, pp. 284-287, https://doi.org/10.1109/IDAACS53288.2021.9660913
-- Khymytsia N., Ustyianovych T., Dronyuk I. Identification and Modeling of Historiographic Data in the Content of Web Forums. International Workshop on Control, Optimisation and Analytical Processing of Social Networks. Lviv. http://ceur-ws.org/Vol-2392/paper23.pdf
-- T. Ustyianovych, N. Khymytsia. Application of machine learning algorithms for the study of Galicia population’s social characteristics in the interwar period (1919-1939). In VIIIth International Youth Science Forum Litteris et Artibus: proceedings, pp. 96-101. 2018.
+- Ustyianovych, T. (2024). Data Science for Social Climate Change Modelling: Emerging Technologies Review. *Data-Centric Business and Applications. Lecture Notes on Data Engineering and Communications Technologies*, vol 213. Springer, Cham. [🔗 DOI](https://doi.org/10.1007/978-3-031-62213-7_18) `[Q2]`
+
+- Fedushko, S., Ustyianovych, T., & Syerov, Y. (2022). Intelligent Academic Specialties Selection in Higher Education for Ukrainian Entrants: A Recommendation System. *Journal of Intelligence*, 10(2), 32. [🔗 DOI](https://doi.org/10.3390/jintelligence10020032) `[Q2]`
+
+- Fedushko, S., & Ustyianovych, T. (2022). E-Commerce Customers Behavior Research Using Cohort Analysis: A Case Study of COVID-19. *Journal of Open Innovation: Technology, Market, and Complexity*, 8(1), 12. [🔗 DOI](https://doi.org/10.3390/joitmc8010012) `[Q1]`
+
+
+- Fedushko, S., & Ustyianovych, T. (2019). Predicting Pupil's Successfulness Factors Using Machine Learning Algorithms and Mathematical Modelling Methods. In: Hu Z. et al. (eds) *Advances in Computer Science for Engineering and Education II*. ICCSEEA 2019. Advances in Intelligent Systems and Computing, vol 938, pp. 625-636. Springer, Cham. [🔗 DOI](https://doi.org/10.1007/978-3-030-16621-2_58)
+
+- Fedushko, S., Gregus, M., & Ustyianovych, T. (2019). Medical card data imputation and patient psychological and behavioral profile construction. *Procedia Computer Science*, 160, 354-361. [🔗 DOI](https://doi.org/10.1016/j.procs.2019.11.080) `[Q2]`
+
+## Conference Proceedings
+
+- [Instant Messaging Platforms News Multi-Task Classification for Stance, Sentiment, and Discrimination Detection](https://aclanthology.org/2024.unlp-1.5) (Ustyianovych & Barbosa, UNLP 2024)
+
+- Kasianchuk, N., Harkava, S., Onishchenko, S., Solodka, O., Shyshko, D., Siemens, E., Falfushynska, H., & Ustyianovych, T. (2024). Computational Breakthroughs in Aquatic Taxonomy: The Role of Deep Learning and DNA Barcoding. *Proceedings of International Conference on Applied Innovation in IT*, 12(1), 79-87. [🔗 DOI](https://doi.org/10.25673/115645)
+
+- Ustyianovych, T., Kasianchuk, N., Falfushynska, H., Fedushko, S., & Siemens, E. (2023). Dynamic Topic Modelling of Online Discussions on the Russian War in Ukraine. *Proceedings of International Conference on Applied Innovation in IT*, 11(2), 81-89. [🔗 DOI](https://doi.org/10.25673/112997)
+
+- Zhuravchak, D., Ustyianovych, T., Dudykevych, V., Venny, B., & Ruda, K. (2021). Ransomware Prevention System Design based on File Symbolic Linking Honeypots. *11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)*, 284-287. [🔗 DOI](https://doi.org/10.1109/IDAACS53288.2021.9660913)
+
+- Khymytsia, N., Ustyianovych, T., & Dronyuk, I. (2019). Identification and Modeling of Historiographic Data in the Content of Web Forums. *International Workshop on Control, Optimisation and Analytical Processing of Social Networks*. [🔗 Paper](http://ceur-ws.org/Vol-2392/paper23.pdf)
 
 ## Non-Academic publications
 - Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU on [Site Reliability and SLA/SLO/SLIs](https://dou.ua/forums/topic/31077/) 
