@@ -15,32 +15,35 @@ I am a Ph.D. student at the Department of Artificial Intelligence Systems at Lvi
 
 ## Journal Publications
 
-- Ustyianovych, T. (2024). Data Science for Social Climate Change Modelling: Emerging Technologies Review. *Data-Centric Business and Applications. Lecture Notes on Data Engineering and Communications Technologies*, vol 213. Springer, Cham. [🔗 DOI](https://doi.org/10.1007/978-3-031-62213-7_18) `[Q2]`
+- [Data Science for Social Climate Change Modelling: Emerging Technologies Review](https://doi.org/10.1007/978-3-031-62213-7_18) (Ustyianovych, Data-Centric Business and Applications. Lecture Notes on Data Engineering and Communications Technologies 2024) `[Q2]`
 
-- Fedushko, S., Ustyianovych, T., & Syerov, Y. (2022). Intelligent Academic Specialties Selection in Higher Education for Ukrainian Entrants: A Recommendation System. *Journal of Intelligence*, 10(2), 32. [🔗 DOI](https://doi.org/10.3390/jintelligence10020032) `[Q2]`
+- [Intelligent Academic Specialties Selection in Higher Education for Ukrainian Entrants: A Recommendation System](https://doi.org/10.3390/jintelligence10020032) (Fedushko, Ustyianovych, & Syerov, Journal of Intelligence 2022) `[Q2]`
 
-- Fedushko, S., & Ustyianovych, T. (2022). E-Commerce Customers Behavior Research Using Cohort Analysis: A Case Study of COVID-19. *Journal of Open Innovation: Technology, Market, and Complexity*, 8(1), 12. [🔗 DOI](https://doi.org/10.3390/joitmc8010012) `[Q1]`
+- [E-Commerce Customers Behavior Research Using Cohort Analysis: A Case Study of COVID-19](https://doi.org/10.3390/joitmc8010012) (Fedushko & Ustyianovych, Journal of Open Innovation: Technology, Market, and Complexity 2022) `[Q1]`
 
+- [Predicting Pupil's Successfulness Factors Using Machine Learning Algorithms and Mathematical Modelling Methods](https://doi.org/10.1007/978-3-030-16621-2_58) (Fedushko & Ustyianovych, Advances in Computer Science for Engineering and Education II 2019)
 
-- Fedushko, S., & Ustyianovych, T. (2019). Predicting Pupil's Successfulness Factors Using Machine Learning Algorithms and Mathematical Modelling Methods. In: Hu Z. et al. (eds) *Advances in Computer Science for Engineering and Education II*. ICCSEEA 2019. Advances in Intelligent Systems and Computing, vol 938, pp. 625-636. Springer, Cham. [🔗 DOI](https://doi.org/10.1007/978-3-030-16621-2_58)
+- [Medical card data imputation and patient psychological and behavioral profile construction](https://doi.org/10.1016/j.procs.2019.11.080) (Fedushko, Gregus, & Ustyianovych, Procedia Computer Science 2019) `[Q2]`
 
-- Fedushko, S., Gregus, M., & Ustyianovych, T. (2019). Medical card data imputation and patient psychological and behavioral profile construction. *Procedia Computer Science*, 160, 354-361. [🔗 DOI](https://doi.org/10.1016/j.procs.2019.11.080) `[Q2]`
 
 ## Conference Proceedings
 
 - [Instant Messaging Platforms News Multi-Task Classification for Stance, Sentiment, and Discrimination Detection](https://aclanthology.org/2024.unlp-1.5) (Ustyianovych & Barbosa, UNLP 2024)
 
-- Kasianchuk, N., Harkava, S., Onishchenko, S., Solodka, O., Shyshko, D., Siemens, E., Falfushynska, H., & Ustyianovych, T. (2024). Computational Breakthroughs in Aquatic Taxonomy: The Role of Deep Learning and DNA Barcoding. *Proceedings of International Conference on Applied Innovation in IT*, 12(1), 79-87. [🔗 DOI](https://doi.org/10.25673/115645)
+- [Computational Breakthroughs in Aquatic Taxonomy: The Role of Deep Learning and DNA Barcoding](https://doi.org/10.25673/115645) (Kasianchuk, Harkava, Onishchenko, Solodka, Shyshko, Siemens, Falfushynska, & Ustyianovych, ACIIT 2024)
 
-- Ustyianovych, T., Kasianchuk, N., Falfushynska, H., Fedushko, S., & Siemens, E. (2023). Dynamic Topic Modelling of Online Discussions on the Russian War in Ukraine. *Proceedings of International Conference on Applied Innovation in IT*, 11(2), 81-89. [🔗 DOI](https://doi.org/10.25673/112997)
+- [Ransomware Prevention System Design based on File Symbolic Linking Honeypots](https://doi.org/10.1109/IDAACS53288.2021.9660913) (Zhuravchak, Ustyianovych, Dudykevych, Venny, & Ruda, IDAACS 2021)
 
-- Zhuravchak, D., Ustyianovych, T., Dudykevych, V., Venny, B., & Ruda, K. (2021). Ransomware Prevention System Design based on File Symbolic Linking Honeypots. *11th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS)*, 284-287. [🔗 DOI](https://doi.org/10.1109/IDAACS53288.2021.9660913)
+- [Dynamic Topic Modelling of Online Discussions on the Russian War in Ukraine](https://doi.org/10.25673/112997) (Ustyianovych, Kasianchuk, Falfushynska, Fedushko, & Siemens, ACIIT 2023)
 
-- Khymytsia, N., Ustyianovych, T., & Dronyuk, I. (2019). Identification and Modeling of Historiographic Data in the Content of Web Forums. *International Workshop on Control, Optimisation and Analytical Processing of Social Networks*. [🔗 Paper](http://ceur-ws.org/Vol-2392/paper23.pdf)
+
+- [Identification and Modeling of Historiographic Data in the Content of Web Forums](http://ceur-ws.org/Vol-2392/paper23.pdf) (Khymytsia, Ustyianovych, & Dronyuk, COAPSN 2019)
+
 
 ## Non-Academic publications
-- Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU on [Site Reliability and SLA/SLO/SLIs](https://dou.ua/forums/topic/31077/) 
-- Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU on [Machine Learning Operations and Monitoring](https://dou.ua/forums/topic/36101/) 
+- [Site Reliability and SLA/SLO/SLIs](https://dou.ua/forums/topic/31077/)  (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2020)
+- [Machine Learning Operations and Monitoring](https://dou.ua/forums/topic/36101/) (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2022)
+- [Machine Learning as an Assitant for Disinformation Detection]()https://dou.ua/forums/topic/48842/ (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2024)
 
 ## Industry Experience
 
