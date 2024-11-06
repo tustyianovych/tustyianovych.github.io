@@ -1,5 +1,5 @@
 
-# Taras Ustyianovych
+# Contact Info & Links
 **Email:** [Taras.O.Ustyianovych@lpnu.ua](mailto:Taras.O.Ustyianovych@lpnu.ua)  
 **ORCID:** [0000-0002-6323-7924](https://orcid.org/0000-0002-6323-7924)  
 **Google Scholar:** [Profile link](https://scholar.google.com.ua/citations?user=PoojbBgAAAAJ&hl=uk)  
@@ -18,9 +18,7 @@ Please find out about my experience and achievements in the corresponding academ
 - [Academic CV](/cv.pdf)
 <!-- - [Industry CV](/to_be_added.pdf) -->
 
-# Selected Publications and Conference Papers
-
-## Journal Publications
+## Selected Publications
 
 - [Data Science for Social Climate Change Modelling: Emerging Technologies Review](https://doi.org/10.1007/978-3-031-62213-7_18) (Ustyianovych, Data-Centric Business and Applications. Lecture Notes on Data Engineering and Communications Technologies 2024) `[Q2]`
 
@@ -52,7 +50,7 @@ Please find out about my experience and achievements in the corresponding academ
 - [Machine Learning Operations and Monitoring](https://dou.ua/forums/topic/36101/) (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2022)
 - [Machine Learning as an Assitant for Disinformation Detection]()https://dou.ua/forums/topic/48842/ (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2024)
 
-# Industry Experience
+## Industry Experience
 
 ### EPAM Systems, Lead Software Engineer
 - **Period**: April, 2019 - Now
@@ -60,7 +58,7 @@ Please find out about my experience and achievements in the corresponding academ
 - **Achievements**: Successful delivery of 5+ projects with average project duration ~1 year. In 2020 contributed to the development of a Master's Degree program in Software Engineering at the National University of "Kyiv-Mohyla Academy". Have obtained the EPAM IMPACT CEO Awards twice (in 2023 and 2024).
 
 
-# Certifications
+## Certifications
 - **[Databricks Machine Learning Professional]**(https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
 - **Validity**: September 2023 - September 2025
 
@@ -70,7 +68,7 @@ Please find out about my experience and achievements in the corresponding academ
 - **[AWS Certified Machine Learning – Specialty]**(hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
 - **Validity**: December 2021 - December 2024
 
-# Volunteering
+## Volunteering
 
 ### Lviv Polytechnic National University
 - Technical mentor on a AI for Disinformation, Drones, and Security Hackathon. The team I mentored became the 2nd out of 10 teams in the final rating with the developed solution. June 2024.
