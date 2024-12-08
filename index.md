@@ -1,5 +1,6 @@
 
-## Contact Info & Links
+# Taras Ustyianovych
+## Contacts
 **Email:** [Taras.O.Ustyianovych@lpnu.ua](mailto:Taras.O.Ustyianovych@lpnu.ua)  
 **ORCID:** [0000-0002-6323-7924](https://orcid.org/0000-0002-6323-7924)  
 **Google Scholar:** [Profile link](https://scholar.google.com.ua/citations?user=PoojbBgAAAAJ&hl=uk)  
@@ -48,7 +49,7 @@ Please find out about my experience and achievements in the corresponding academ
 ## Non-Academic publications
 - [Site Reliability and SLA/SLO/SLIs](https://dou.ua/forums/topic/31077/)  (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2020)
 - [Machine Learning Operations and Monitoring](https://dou.ua/forums/topic/36101/) (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2022)
-- [Machine Learning as an Assitant for Disinformation Detection]()https://dou.ua/forums/topic/48842/ (Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2024)
+- [Machine Learning as an Assitant for Disinformation Detection](https://dou.ua/forums/topic/48842/)(Article in a tech blog of the Ukrainian Web-Forum for IT Developers DOU 2024)
 
 ## Industry Experience
 
@@ -59,13 +60,13 @@ Please find out about my experience and achievements in the corresponding academ
 
 
 ## Certifications
-- [**Databricks Machine Learning Professional**](https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
+- [Databricks Machine Learning Professional](https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
 - **Validity**: September 2023 - September 2025
 
-- [**Microsoft Azure Data Scientist Associate**](https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
+- [Microsoft Azure Data Scientist Associate](https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
 - **Validity**: March 2021 - March 2025
 
-- [**AWS Certified Machine Learning – Specialty**](hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
+- [AWS Certified Machine Learning – Specialty](hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
 - **Validity**: December 2021 - December 2024
 
 ## Volunteering
