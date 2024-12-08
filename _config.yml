@@ -1,8 +1,8 @@
-title: Research Scientist
+title: Taras Ustyianovych
 email: Taras.O.Ustyianovych@lpnu.ua
-description: Data Science & Artificial Intelligence, Education
-logo: /assets/img/photo.jpg
-show_downloads: true
+description: Research Scientist, Data Science & Artificial Intelligence, Education
+logo: /assets/img/photo-modified.png
+show_downloads: false
 color-scheme: auto
 plugins:
   - jekyll-sitemap
