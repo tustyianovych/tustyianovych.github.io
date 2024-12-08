@@ -1,5 +1,5 @@
 
-# Contact Info & Links
+## Contact Info & Links
 **Email:** [Taras.O.Ustyianovych@lpnu.ua](mailto:Taras.O.Ustyianovych@lpnu.ua)  
 **ORCID:** [0000-0002-6323-7924](https://orcid.org/0000-0002-6323-7924)  
 **Google Scholar:** [Profile link](https://scholar.google.com.ua/citations?user=PoojbBgAAAAJ&hl=uk)  
@@ -15,8 +15,8 @@ In addition to academia, I possess more than 5 years of industry experience acro
 
 Please find out about my experience and achievements in the corresponding academic and industry CVs: 
 
-- [Academic CV](/cv.pdf)
-<!-- - [Industry CV](/to_be_added.pdf) -->
+- [Academic CV](/cv_academic.pdf)
+- [Industry CV](/cv_industry.pdf)
 
 ## Selected Publications
 
@@ -59,13 +59,13 @@ Please find out about my experience and achievements in the corresponding academ
 
 
 ## Certifications
-- **[Databricks Machine Learning Professional]**(https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
+- [**Databricks Machine Learning Professional**](https://credentials.databricks.com/2f641a3f-ad3c-4a8f-b741-847f2c6a1e72#acc.Nz70a58U)
 - **Validity**: September 2023 - September 2025
 
-- **[Microsoft Azure Data Scientist Associate]**(https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
+- [**Microsoft Azure Data Scientist Associate**](https://www.credly.com/badges/a503b37e-b4c5-4cac-96c3-31e9004efcf4)
 - **Validity**: March 2021 - March 2025
 
-- **[AWS Certified Machine Learning – Specialty]**(hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
+- [**AWS Certified Machine Learning – Specialty**](hhttps://www.credly.com/badges/067264ba-f0bf-48e2-9205-f5d0a824df36)
 - **Validity**: December 2021 - December 2024
 
 ## Volunteering
